@@ -1,6 +1,4 @@
-# RATIO RATIO RATIO RATIO
-
-[Troupe Géant](https://imgur.com/a/FOTenNe)
+# C'est bien moi
 
 
 <!--
