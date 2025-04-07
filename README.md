@@ -1,5 +1,13 @@
-# C'est bien moi
+# Yes it's me !
 
+## Not a lot of things to show for now but let's get moving !
+- ✨Current project✨ : [Livechat-OBS](https://github.com/valentin-dlack/livechat-obs)
+- 🌱Some techs I'm using🌱 : **NodeJS**, **ReactJS**, **Kotlin**, **GoLang**, **PostgreSQL** etc...
+- 📫Main e-mail adress📫 : maxime.bouzonie@protonmail.com
+# 
+Look at this nice album cover, isn't it cool as heck ?
+
+![Woman_album_cover-Justice](https://t2.genius.com/unsafe/600x600/https%3A%2F%2Fimages.genius.com%2F076745e533721a5c2d7d80634983d2d0.1000x1000x1.jpg)
 
 <!--
 **Xturfi/Xturfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
